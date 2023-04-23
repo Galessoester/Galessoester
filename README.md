@@ -1,25 +1,13 @@
 ## Olá! 👋 Eu sou a Ester Galesso
-#### Seja bem vindo(a) ao meu perfil 😊
+#### Desenvolvedora Front-End e UX/UI designer!
+#####Seja bem vindo(a) ao meu perfil 😊
 
-<blockquote>
-Desenvolvedora Front-End e UX/UI designer! 
-</blockquote>
 <br>
 
-- 📚 Estudos: Faço Sistemas de Informação pela FIAP e tenho cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications)!
+- 📚 Estudos: Sistemas de Informação pela FIAP e cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications)!
 - 👀 Curiosidades: Já morei no exterior trabalhando como Au Pair
 - ✨ Hobbies: Gosto de cantar, faço amigurumis (bonequinhos de crochê), leio e assisto séries de investigação policial.
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <a href="https://github.com/Galessoester">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galessoester&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
