@@ -1,14 +1,14 @@
 ## Olá! 👋 Eu sou a Ester Galesso
 #### Seja bem vindo(a) ao meu perfil 😊
 
+<blockquote>
 Desenvolvedora Front-End e UX/UI designer! 
+</blockquote>
 <br>
 
-<blockquote>
-- 📚 Estudos: Faço Sistemas de Informação pela FIAP e tenho cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications/)!
+- 📚 Estudos: Faço Sistemas de Informação pela FIAP e tenho cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu <a herf="https://www.linkedin.com/in/estergalesso/details/certifications">Linkedin</a>!
 - 👀 Curiosidades: Já morei no exterior trabalhando como Au Pair
 - ✨ Hobbies: Gosto de cantar, faço amigurumis (bonequinhos de crochê), leio e assisto séries de investigação policial.
-</blockquote>
 <!--
 
 - 🔭 I’m currently working on ...
