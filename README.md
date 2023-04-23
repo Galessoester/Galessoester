@@ -1,4 +1,5 @@
-### Olá! 👋 Seja bem vindo(a) ao meu perfil 😊
+### Olá! 👋 Eu sou a Ester Galesso
+## Seja bem vindo(a) ao meu perfil 😊
 
 <!--
 
