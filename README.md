@@ -6,7 +6,7 @@ Desenvolvedora Front-End e UX/UI designer!
 </blockquote>
 <br>
 
-- 📚 Estudos: Faço Sistemas de Informação pela FIAP e tenho cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications) <a herf="https://www.linkedin.com/in/estergalesso/details/certifications">Linkedin</a>!
+- 📚 Estudos: Faço Sistemas de Informação pela FIAP e tenho cursos nas áreas de comunicação e tecnologia pela Alura e Udemy. Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications)!
 - 👀 Curiosidades: Já morei no exterior trabalhando como Au Pair
 - ✨ Hobbies: Gosto de cantar, faço amigurumis (bonequinhos de crochê), leio e assisto séries de investigação policial.
 <!--
@@ -37,11 +37,7 @@ Desenvolvedora Front-End e UX/UI designer!
   
   ## Entre em contato
 <div>
-32
   <a href="https://api.whatsapp.com/send?phone=5511995352804" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-33
   <a href="https://www.linkedin.com/in/galessoester/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-34
   <a href="mailto:galessoester@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-35
 </div>
