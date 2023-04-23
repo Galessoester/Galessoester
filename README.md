@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou a Ester Galesso
-#### Desenvolvedora Front-End e UX/UI designer!
-#####Seja bem vindo(a) ao meu perfil 😊
+### Desenvolvedora Front-End e UX/UI designer!
+#### Seja bem vindo(a) ao meu perfil 😊
 
 <br>
 
