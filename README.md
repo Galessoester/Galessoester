@@ -30,4 +30,12 @@
 </div>
   
   ## Entre em contato
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<div>
+32
+  <a href="https://api.whatsapp.com/send?phone=5511995352804" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+33
+  <a href="https://www.linkedin.com/in/galessoester/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+34
+  <a href="mailto:galessoester@gmail.com"><img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+35
+</div>
