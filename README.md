@@ -2,7 +2,6 @@
 ### Desenvolvedora Back-end em Python!
 #### Seja bem vindo(a) ao meu perfil 😊
 
-<br>
 
 - 📚 Estudos: Sistemas de Informação pela FIAP e cursos nas áreas de comunicação e tecnologia pela [Alura](https://cursos.alura.com.br/user/galessoester), [Udemy](https://www.udemy.com/user/ester-gmail-2/) e [DIO](https://www.dio.me/users/galessoester). Você pode ver mais no meu [Linkedin](https://www.linkedin.com/in/estergalesso/details/certifications)!
 - 👀 Curiosidades: Já morei no exterior trabalhando como Au Pair
