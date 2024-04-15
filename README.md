@@ -25,9 +25,6 @@
 ![ester-bootstrap](https://github.com/Galessoester/Galessoester/assets/86168157/69009d19-e30e-4a11-a1b9-9567796a7806) 
 ![ester-swift](https://github.com/Galessoester/Galessoester/assets/86168157/eb6de664-248f-4e1f-815d-38a7527caef0)
   
-# Commits
-![snake animation](https://github.com/galessoester/galessoester/blob/output/github-contribution-grid-snake2.svg)
-  
 ## Entre em contato
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511995352804)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galessoester/)
